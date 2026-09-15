@@ -9,6 +9,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-00e676.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web%20(Client--Side)-black?logo=googlechrome&logoColor=00e676)](https://github.com)
+<img width="1288" height="879" alt="image" src="https://github.com/user-attachments/assets/4c396010-6e42-419c-90e5-a39c60076861" />
 
 **Select Language / Pilih Bahasa:**  
 [ 🇬🇧 English ](#-english) • [ 🇮🇩 Bahasa Indonesia ](#-bahasa-indonesia)
